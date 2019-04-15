@@ -1,2 +1,6 @@
-# Space_Cadet
-Space Cadet is a retro style arcade game me and my partner Ori Ancari made for an interactive media class. You pilot a spaceship  and avoid asteroids using a steering wheel and gas pedal we made conected to an arduino.
+# Space Cadet
+Sean Coneys and Ori Ancari
+
+Space Cadet is a retro style arcade game where the player controls a spaceship using a stering wheel and gas pedal (a modified potentiometer and handmade button hooked up to an arduino). The player attempts to dodge asteroids while collecting planets as the difficulty scales. As an added gimick it uses the computer's webcam to provide a live image of the player inside the spaceship.
+
+![alt text](https://raw.githubusercontent.com/seanconeys/Space_Cadet/master/Documentation/game.jpg)
